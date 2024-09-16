@@ -10,7 +10,7 @@ class Animal
 {
     public string Nombre { get; set; }
     public string Descripcion { get; set; }
-    public string Imagen { get; set; }
+    public string Imagen { get; set; } 
     public string Velocidad { get; set; }
     public string LinkWikidata { get; set; }
     public string NombreComun { get; set; }
@@ -158,3 +158,4 @@ class Program
         }
     }
 }
+
