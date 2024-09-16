@@ -19,7 +19,10 @@ cd Laboratorio2
 
 
 ### 2. Notas
-Asegúrate de que el archivo Lab_data_alumno_Lab.csv esté en la misma ruta especificada que en el código (en mi caso C:\Users\juansanchez\OneDrive - RIAM I+L LAB S.L\Lab_data_alumno_Lab.csv). Puedes ajustar la ruta en el código si es necesario para que coincida con la tuya.
+Asegúrate de que el archivo Lab_data_alumno_Lab.csv esté en la misma ruta especificada que en el código (en mi caso C:\Users\juansanchez\OneDrive - RIAM I+L LAB S.L\Lab_data_alumno_Lab.csv). 
+
+Puedes ajustar la ruta en el código si es necesario para que coincida con la tuya.
+
 El programa generará un nuevo archivo CSV llamado Lab_data_alumno_Lab_Actualizado.csv en la misma ruta que el archivo CSV de entrada. Este archivo contendrá los datos procesados y limpiados.
 
 
