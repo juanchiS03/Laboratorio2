@@ -14,6 +14,7 @@ Para ejecutar el programa, clona el repositorio en tu ordenador y ejecútalo med
 
 Abre una terminal o línea de comandos y clona el repositorio:
 git clone https://github.com/juanchiS03/Laboratorio2.git
+
 cd Laboratorio2
 
 
